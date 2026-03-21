@@ -33,11 +33,8 @@
 
 A pre-compiled version of the evaluator is available.
 
-1. Go to the **[Releases](../../releases)** section and download the `evalexpr_binary.tar.gz` archive.
-2. Extract the archive:
-```bash
-tar -xvf evalexpr_binary.tar.gz
-```
+1. Go to the **[Releases](../../releases)** section.
+2. Download the `evalexpr` binary.
 3. Standard Evaluation: Run the binary interactively and type your expression, or pipe it directly.
 ```bash
 # Interactive mode
