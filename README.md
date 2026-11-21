@@ -29,6 +29,10 @@
 * **Operator Precedence:** Managing complex priorities (e.g., power `^` being right-associative and having higher precedence than multiplication) without building an Abstract Syntax Tree (AST), using strictly stack-based rules.
 * **Memory Safety:** Ensuring that deep parsing errors (like discovering an unbalanced parenthesis mid-evaluation) correctly bubble up the error code while systematically freeing all allocated structures (queues, token stacks, and buffers) to guarantee zero memory leaks.
 
+## 🛠️ Skills
+
+`C` · `Git`
+
 ## 🎯 How to test the project?
 
 A pre-compiled version of the evaluator is available.
